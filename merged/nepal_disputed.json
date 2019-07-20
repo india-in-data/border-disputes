@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "28",
+      "properties": {
+        "featurecla": "Admin-0 claim area",
+        "scalerank": 0,
+        "LABELRANK": 5,
+        "SOVEREIGNT": "India",
+        "SOV_A3": "IND",
+        "ADM0_DIF": 0,
+        "LEVEL": 5,
+        "TYPE": "Disputed",
+        "ADMIN": "India",
+        "ADM0_A3": "IND",
+        "GEOU_DIF": 0,
+        "GEOUNIT": "India",
+        "GU_A3": "IND",
+        "SU_DIF": 1,
+        "SUBUNIT": "India",
+        "SU_A3": "INX",
+        "BRK_DIFF": 1,
+        "NAME": "India",
+        "NAME_LONG": "India",
+        "BRK_A3": "B88",
+        "BRK_NAME": "Near Om Parvat",
+        "BRK_GROUP": null,
+        "ABBREV": null,
+        "POSTAL": null,
+        "FORMAL_EN": null,
+        "FORMAL_FR": null,
+        "NAME_CIAWF": null,
+        "NOTE_ADM0": "India",
+        "NOTE_BRK": "Admin. by India; Claimed by Nepal",
+        "NAME_SORT": "Near Om Parvat",
+        "NAME_ALT": null,
+        "MAPCOLOR7": 1,
+        "MAPCOLOR8": 3,
+        "MAPCOLOR9": 2,
+        "MAPCOLOR13": 2,
+        "POP_EST": -99,
+        "POP_RANK": 1,
+        "GDP_MD_EST": 0,
+        "POP_YEAR": 2017,
+        "LASTCENSUS": -99,
+        "GDP_YEAR": 2017,
+        "ECONOMY": "3. Emerging region: BRIC",
+        "INCOME_GRP": "4. Lower middle income",
+        "WIKIPEDIA": 0,
+        "FIPS_10_": "-99",
+        "ISO_A2": "-99",
+        "ISO_A3": "-99",
+        "ISO_A3_EH": "-99",
+        "ISO_N3": "-99",
+        "UN_A3": "-099",
+        "WB_A2": "-99",
+        "WB_A3": "-99",
+        "WOE_ID": -99,
+        "WOE_ID_EH": -99,
+        "WOE_NOTE": "No WOE equivalent.",
+        "ADM0_A3_IS": "-99",
+        "ADM0_A3_US": "UUU",
+        "ADM0_A3_UN": -99,
+        "ADM0_A3_WB": -99,
+        "CONTINENT": "Asia",
+        "REGION_UN": "Asia",
+        "SUBREGION": "Southern Asia",
+        "REGION_WB": "South Asia",
+        "NAME_LEN": 5,
+        "LONG_LEN": 5,
+        "ABBREV_LEN": 0,
+        "TINY": -99,
+        "HOMEPART": -99,
+        "MIN_ZOOM": 5,
+        "MIN_LABEL": 7.7,
+        "MAX_LABEL": 9,
+        "NE_ID": 1159320873,
+        "WIKIDATAID": null,
+        "NAME_AR": null,
+        "NAME_BN": null,
+        "NAME_DE": null,
+        "NAME_EN": null,
+        "NAME_ES": null,
+        "NAME_FR": null,
+        "NAME_EL": null,
+        "NAME_HI": null,
+        "NAME_HU": null,
+        "NAME_ID": null,
+        "NAME_IT": null,
+        "NAME_JA": null,
+        "NAME_KO": null,
+        "NAME_NL": null,
+        "NAME_PL": null,
+        "NAME_PT": null,
+        "NAME_RU": null,
+        "NAME_SV": null,
+        "NAME_TR": null,
+        "NAME_VI": null,
+        "NAME_ZH": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.97601810700007,
+              30.255208638000042
+            ],
+            [
+              80.99627526900008,
+              30.226889954000043
+            ],
+            [
+              81.00330326400012,
+              30.212730611000083
+            ],
+            [
+              80.99601688700011,
+              30.19696930000002
+            ],
+            [
+              80.98816206800007,
+              30.196555887999992
+            ],
+            [
+              80.92082767700009,
+              30.176660462000072
+            ],
+            [
+              80.90330936700013,
+              30.180432841000098
+            ],
+            [
+              80.89364587500012,
+              30.198106181000114
+            ],
+            [
+              80.88387902800014,
+              30.21040517200005
+            ],
+            [
+              80.90761459613958,
+              30.231110836023813
+            ],
+            [
+              80.95528566132161,
+              30.24451832310626
+            ],
+            [
+              80.97601810700007,
+              30.255208638000042
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
