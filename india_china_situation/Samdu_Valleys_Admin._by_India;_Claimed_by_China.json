@@ -1,0 +1,187 @@
+{
+    "type": "Feature",
+    "id": "34",
+    "properties": {
+        "featurecla": "Admin-0 claim area",
+        "scalerank": 0,
+        "LABELRANK": 8,
+        "SOVEREIGNT": "India",
+        "SOV_A3": "IND",
+        "ADM0_DIF": 0,
+        "LEVEL": 5,
+        "TYPE": "Disputed",
+        "ADMIN": "India",
+        "ADM0_A3": "IND",
+        "GEOU_DIF": 0,
+        "GEOUNIT": "India",
+        "GU_A3": "IND",
+        "SU_DIF": 1,
+        "SUBUNIT": "India",
+        "SU_A3": "INX",
+        "BRK_DIFF": 1,
+        "NAME": "India",
+        "NAME_LONG": "India",
+        "BRK_A3": "B04",
+        "BRK_NAME": "Samdu Valleys",
+        "BRK_GROUP": null,
+        "ABBREV": null,
+        "POSTAL": null,
+        "FORMAL_EN": null,
+        "FORMAL_FR": null,
+        "NAME_CIAWF": null,
+        "NOTE_ADM0": "India",
+        "NOTE_BRK": "Admin. by India; Claimed by China",
+        "NAME_SORT": "Samdu Valleys",
+        "NAME_ALT": null,
+        "MAPCOLOR7": 1,
+        "MAPCOLOR8": 3,
+        "MAPCOLOR9": 2,
+        "MAPCOLOR13": 2,
+        "POP_EST": -99.0,
+        "POP_RANK": 1,
+        "GDP_MD_EST": 0.0,
+        "POP_YEAR": 2017,
+        "LASTCENSUS": -99,
+        "GDP_YEAR": 2017,
+        "ECONOMY": "3. Emerging region: BRIC",
+        "INCOME_GRP": "4. Lower middle income",
+        "WIKIPEDIA": -99,
+        "FIPS_10_": "-99",
+        "ISO_A2": "-99",
+        "ISO_A3": "-99",
+        "ISO_A3_EH": "-99",
+        "ISO_N3": "-99",
+        "UN_A3": "-099",
+        "WB_A2": "-99",
+        "WB_A3": "-99",
+        "WOE_ID": -99,
+        "WOE_ID_EH": -99,
+        "WOE_NOTE": "No WOE equivalent.",
+        "ADM0_A3_IS": "-99",
+        "ADM0_A3_US": "B04",
+        "ADM0_A3_UN": -99,
+        "ADM0_A3_WB": -99,
+        "CONTINENT": "Asia",
+        "REGION_UN": "Asia",
+        "SUBREGION": "Southern Asia",
+        "REGION_WB": "South Asia",
+        "NAME_LEN": 5,
+        "LONG_LEN": 5,
+        "ABBREV_LEN": 0,
+        "TINY": -99,
+        "HOMEPART": 1,
+        "MIN_ZOOM": 5.0,
+        "MIN_LABEL": 7.7,
+        "MAX_LABEL": 9.0,
+        "NE_ID": 1159320867,
+        "WIKIDATAID": null,
+        "NAME_AR": null,
+        "NAME_BN": null,
+        "NAME_DE": null,
+        "NAME_EN": null,
+        "NAME_ES": null,
+        "NAME_FR": null,
+        "NAME_EL": null,
+        "NAME_HI": null,
+        "NAME_HU": null,
+        "NAME_ID": null,
+        "NAME_IT": null,
+        "NAME_JA": null,
+        "NAME_KO": null,
+        "NAME_NL": null,
+        "NAME_PL": null,
+        "NAME_PT": null,
+        "NAME_RU": null,
+        "NAME_SV": null,
+        "NAME_TR": null,
+        "NAME_VI": null,
+        "NAME_ZH": null
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    78.46901739200007,
+                    32.226532615000096
+                ],
+                [
+                    78.47648075400014,
+                    32.22441660600008
+                ],
+                [
+                    78.51306766800008,
+                    32.2075700890001
+                ],
+                [
+                    78.53497847500006,
+                    32.18134429900006
+                ],
+                [
+                    78.55182499200004,
+                    32.15039011700007
+                ],
+                [
+                    78.64928674300012,
+                    32.03644358300001
+                ],
+                [
+                    78.67832889800007,
+                    32.01675486300006
+                ],
+                [
+                    78.72215051300009,
+                    31.99458567300003
+                ],
+                [
+                    78.73382938700007,
+                    31.984663798000028
+                ],
+                [
+                    78.74457808500011,
+                    31.964199931000067
+                ],
+                [
+                    78.7419942630001,
+                    31.945338033000056
+                ],
+                [
+                    78.72018680900004,
+                    31.902911682000124
+                ],
+                [
+                    78.71419234300004,
+                    31.88301625600012
+                ],
+                [
+                    78.68184289600009,
+                    31.950867412000065
+                ],
+                [
+                    78.60494836400011,
+                    32.00936513300006
+                ],
+                [
+                    78.53353153500007,
+                    32.05990468400009
+                ],
+                [
+                    78.47141646300008,
+                    32.140933330000095
+                ],
+                [
+                    78.4416508380001,
+                    32.12269154900005
+                ],
+                [
+                    78.38180953000017,
+                    32.182455343000086
+                ],
+                [
+                    78.46901739200007,
+                    32.226532615000096
+                ]
+            ]
+        ]
+    }
+}
